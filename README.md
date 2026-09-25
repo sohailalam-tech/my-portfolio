@@ -1,32 +1,82 @@
-# React + TypeScript + Vite
+# Sohail Alam — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> Computer Science student • Developer • Product Builder
 
-Currently, two official plugins are available:
+Personal portfolio website built with React, TypeScript and Vite, featuring selected projects, skills, experience, education and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔴 Live Portfolio
 
-## React Compiler
+https://my-portfolio-orpin-seven-26.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Highlights
 
-## Expanding the Oxlint configuration
+- Modern responsive portfolio design
+- Dark black/red visual system
+- Active section navigation
+- Scroll reveal animations
+- Responsive mobile navigation
+- Project showcase with live project links
+- Experience and education timeline
+- Resume download
+- SEO and social sharing metadata
+- Vercel deployment with GitHub integration
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 🚀 Featured Projects
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+### GroomGo — LIVE
+A wedding and luxury car rental platform focused on groom cars, wedding fleets and local travel services.
+
+**Stack:** HTML, JavaScript, React.js, Vite, Supabase
+
+### CAMPUS — IN PROGRESS
+A university-focused student platform for confessions, events, help requests and lost & found posts.
+
+**Stack:** React, JavaScript, Supabase, Vite
+
+### XAI Disease Prediction — IN PROGRESS
+An ongoing final-year project using machine learning and Explainable AI to make disease predictions easier to understand.
+
+**Stack:** Python, Machine Learning, Explainable AI
+
+## 🛠️ Tech Stack
+
+- React.js
+- TypeScript / JavaScript
+- Vite
+- HTML / CSS
+- Python
+- Supabase
+- Git / GitHub
+- VS Code
+
+## 📁 Project Structure
+
+```text
+my-portfolio/
+├── public/
+│   ├── favicon.png
+│   ├── resume.pdf
+│   └── opengraph-image.png
+├── src/
+│   ├── components/
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── index.html
+├── package.json
+└── vite.config.ts
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## 👨‍💻 About
+
+I'm Sohail Alam, a Computer Science student interested in web development, full-stack applications and building practical digital products.
+
+## 📬 Contact
+
+- Email: sohailaalam258@gmail.com
+- GitHub: https://github.com/sohailalam-tech
+- LinkedIn: https://www.linkedin.com/in/sohail-alam-412711335/
+
+---
+
+Built by **Sohail Alam**.

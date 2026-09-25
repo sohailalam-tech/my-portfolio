@@ -35,7 +35,7 @@ function Hero() {
   <a
     href="/resume.pdf"
     className="secondary-btn"
-    download="Sohail Alam (Resume).pdf"
+    download="resume.pdf"
   >
     Download Resume
     <span>↓</span>
