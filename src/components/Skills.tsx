@@ -9,28 +9,35 @@ const skillGroups = [
     skills: ["HTML", "CSS", "JavaScript", "React.js", "Vite"],
   },
   {
-    number: "02",
+  number: "02",
+  title: "Backend",
+  description:
+    "Building backend services and APIs for web applications.",
+  skills: ["Python", "FastAPI", "REST APIs"],
+},
+  {
+    number: "03",
     title: "Programming",
     description:
       "Using programming to solve problems and build practical solutions.",
     skills: ["Python", "JavaScript"],
   },
   {
-    number: "03",
-    title: "Database",
-    description:
-      "Working with application data, backend services and authentication.",
-    skills: ["Supabase"],
-  },
+  number: "04",
+  title: "Database",
+  description:
+    "Working with relational databases, SQL queries and backend data management.",
+  skills: ["SQL", "PostgreSQL", "Supabase"],
+},
   {
-    number: "04",
+    number: "05",
     title: "Development",
     description:
       "Turning ideas into functional products and real-world applications.",
     skills: ["React.js", "Vite", "JavaScript", "HTML"],
   },
   {
-    number: "05",
+    number: "06",
     title: "Tools",
     description:
       "Tools I use throughout my development and project workflow.",
